@@ -61,10 +61,10 @@ Competitive game AI with neural network evaluation. **Performance:** 60-70% sear
 ## GitHub Activity
 
 <a href="https://github.com/harishm17">
-  <img height=200 align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api?username=harishm17&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+  <img align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api?username=harishm17&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/harishm17">
-  <img height=200 align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&card_width=320" />
+  <img align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </a>
 
 ---
