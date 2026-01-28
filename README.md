@@ -1,6 +1,6 @@
 # Hi, I'm Harish Manoharan 👋
 
-**Software Engineer** | AI/ML Systems | MS CS @ UT Dallas | Ex-IIT Madras
+**Software Engineer** | **AI/ML Systems** | MS CS @ UT Dallas | Ex-IIT Madras
 
 Currently building intelligent automation at **Purgo AI** (TypeScript, NestJS, React, Docker, GCP)
 
