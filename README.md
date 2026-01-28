@@ -5,7 +5,6 @@ Software Engineer at **Purgo AI** | Ongoing MS CS @ UT Dallas | Ex-IIT Madras
 ## 🎯 What I Build
 - **Enterprise Full-Stack:** TypeScript/React frontends, NestJS backends, CI/CD pipelines → **80% reduction in manual workflows** at Purgo AI
 - **AI/ML Systems:** Multi-agent platforms, text-to-SQL chatbots, LLM applications → **95% F1-score** in production
-- **Research Engineering:** Computational biology, graph algorithms, metabolic networks (IIT Madras)
 
 ## 🚀 Featured Projects
 
@@ -50,8 +49,12 @@ Software Engineer at **Purgo AI** | Ongoing MS CS @ UT Dallas | Ex-IIT Madras
 
 ## 📊 GitHub Stats
 
-[![Harish's GitHub Stats](https://github-readme-stats-rho-swart-11.vercel.app/api?username=harishm17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&v=2)](https://github.com/harishm17)
-[![Top Languages](https://github-readme-stats-rho-swart-11.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true&v=2)](https://github.com/harishm17)
+<a href="https://github.com/harishm17">
+  <img height=200 align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api?username=harishm17&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/harishm17">
+  <img height=200 align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true&card_width=320" />
+</a>
 
 ## 🛠️ Tech Stack
 
