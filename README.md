@@ -51,11 +51,6 @@ Currently building intelligent automation at **Purgo AI** (TypeScript, NestJS, R
 - Customer segmentation and churn prediction ML models
 - PowerBI dashboards for strategic decision-making
 
-## 🔬 Research @ IIT Madras
-- **Young Research Fellow** with Prof. Karthik Raman (Computational Biology Lab)
-- Metabolic network analysis using graph theory and centrality measures
-- Published findings on microbial ecosystem stability drivers
-
 ## 📊 GitHub Stats
 
 ![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishm17&show_icons=true&theme=radical&hide_border=true)
