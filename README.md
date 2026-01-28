@@ -1,8 +1,6 @@
 # Hi, I'm Harish Manoharan 👋
 
-**Software Engineer** | **AI/ML Systems** | MS CS @ UT Dallas | Ex-IIT Madras
-
-Currently building intelligent automation at **Purgo AI** (TypeScript, NestJS, React, Docker, GCP)
+Software Engineer at **Purgo AI** | Ongoing MS CS @ UT Dallas | Ex-IIT Madras
 
 ## 🎯 What I Build
 - **Enterprise Full-Stack:** TypeScript/React frontends, NestJS backends, CI/CD pipelines → **80% reduction in manual workflows** at Purgo AI
@@ -15,7 +13,6 @@ Currently building intelligent automation at **Purgo AI** (TypeScript, NestJS, R
 > Transform PDFs into personalized study guides, practice problems, and AI-graded exams
 - **Stack:** Next.js 15, FastAPI, PostgreSQL + pgvector, OpenAI GPT-4
 - **Impact:** 85% cost reduction via hybrid semantic search, unlimited content regeneration
-- **Scale:** 15,000+ lines of production code across 10 development phases
 - 🎓 Complete microservices architecture | ⚡ Async job processing | 🔒 Secure document handling
 
 ### [Smart Email Assistant](https://github.com/harishm17/smart_email)
@@ -28,7 +25,7 @@ Currently building intelligent automation at **Purgo AI** (TypeScript, NestJS, R
 > Real-time plagiarism detection using Siamese LSTM networks
 - **Stack:** PyTorch, LSTM, FastAPI, NLP
 - **Results:** 95% F1-score, deployed web service
-- 📊 Showcased at IIT Madras Programming Club | 🔗 Live demo available
+- 📊 Showcased at IIT Madras Programming Club
 
 ### [Othello Game Bot](https://github.com/harishm17/Othello-game-bot)
 > Competitive game AI with neural network evaluation
@@ -39,7 +36,7 @@ Currently building intelligent automation at **Purgo AI** (TypeScript, NestJS, R
 ## 💼 Experience Highlights
 
 **Purgo AI** - Software Engineer Intern (Jun 2025 - Present)
-- 80% reduction in manual validation through full-stack automation (TypeScript, NestJS, React)
+- 80% reduction in manual validation through full-stack automation (TypeScript, Python, NestJS, React)
 - DocuSign OAuth 2.0 integration for end-to-end eSignature workflows
 - CI/CD pipeline with Docker + GitHub Actions → GCP Cloud Run
 
@@ -73,14 +70,8 @@ Currently building intelligent automation at **Purgo AI** (TypeScript, NestJS, R
 - Reading: "Designing Data-Intensive Applications" by Martin Kleppmann
 - Open to Software Engineer roles starting **May 2026**
 
-💬 **Let's connect:** I'm always interested in discussing AI/ML systems, full-stack architecture, and software engineering best practices.
-
 ## 📫 Connect
 
 🌐 [Portfolio](https://harishm17.github.io) • 💼 [LinkedIn](https://linkedin.com/in/harishm17) • 📧 harish.manoharan@utdallas.edu
 
 📍 Dallas, TX | Open to full-time SWE roles May 2026
-
----
-
-*"Building intelligent systems that create measurable impact"*
