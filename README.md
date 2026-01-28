@@ -53,8 +53,8 @@ Currently building intelligent automation at **Purgo AI** (TypeScript, NestJS, R
 
 ## 📊 GitHub Stats
 
-![Harish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harishm17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Harish's GitHub Stats](https://github-readme-stats-git-master-harish-manoharans-projects.vercel.app/api?username=harishm17&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)
+![Top Languages](https://github-readme-stats-git-master-harish-manoharans-projects.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true)
 
 ## 🛠️ Tech Stack
 
