@@ -78,11 +78,6 @@ Currently building intelligent automation at **Purgo AI** (TypeScript, NestJS, R
 - Reading: "Designing Data-Intensive Applications" by Martin Kleppmann
 - Open to Software Engineer roles starting **May 2026**
 
-📈 **Recent Updates:**
-- ✨ Redesigned portfolio with project showcases → [harishm17.github.io](https://harishm17.github.io)
-- 📝 Published comprehensive READMEs for 4 major projects
-- 🚀 Deployed study_buddy AI learning platform architecture
-
 💬 **Let's connect:** I'm always interested in discussing AI/ML systems, full-stack architecture, and software engineering best practices.
 
 ## 📫 Connect
