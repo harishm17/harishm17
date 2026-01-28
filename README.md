@@ -1,80 +1,80 @@
-# Hi, I'm Harish Manoharan 👋
+# Harish Manoharan
 
-Software Engineer at **Purgo AI** | Ongoing MS CS @ UT Dallas | Ex-IIT Madras
+**Full-Stack Software Engineer** | AI/ML Specialist | Building intelligent automation at Purgo AI
 
-## 🎯 What I Build
-- **Enterprise Full-Stack:** TypeScript/React frontends, NestJS backends, CI/CD pipelines → **80% reduction in manual workflows** at Purgo AI
-- **AI/ML Systems:** Multi-agent platforms, text-to-SQL chatbots, LLM applications → **95% F1-score** in production
+MS Computer Science @ UT Dallas | BS Computer Science (IIT Madras)
 
-## 🚀 Featured Projects
+---
 
-### [StudyBuddy](https://github.com/harishm17/study_buddy) - AI-Powered Learning Platform
-> Transform PDFs into personalized study guides, practice problems, and AI-graded exams
-- **Stack:** Next.js 15, FastAPI, PostgreSQL + pgvector, OpenAI GPT-4
-- **Impact:** 85% cost reduction via hybrid semantic search, unlimited content regeneration
-- 🎓 Complete microservices architecture | ⚡ Async job processing | 🔒 Secure document handling
+## Experience
+
+**Purgo AI** — Software Engineer Intern *(Jun 2025 - Present)*
+- Reduced manual validation by 80% with full-stack automation (TypeScript, Python, NestJS, React)
+- Integrated DocuSign OAuth 2.0 for end-to-end eSignature workflows
+- Deployed CI/CD pipeline (Docker + GitHub Actions → GCP Cloud Run)
+
+**Digitus Business Solutions** — Software Engineer Intern *(May - Jul 2024)*
+- Built self-correcting text-to-SQL chatbot with iterative refinement
+- Integrated Malaysia tax compliance (QAD ERP ↔ LHDNM MyInvois)
+
+**PwC India** — Technology Consultant Intern *(May - Jul 2023)*
+- Developed customer segmentation and churn prediction models
+- Created Power BI dashboards for executive decision-making
+
+---
+
+## Featured Work
+
+### [StudyBuddy](https://github.com/harishm17/study_buddy)
+AI-powered learning platform that converts PDFs to personalized study materials with automated grading. **Result:** 85% cost reduction via hybrid semantic search.
+
+**Tech:** Next.js 15, FastAPI, PostgreSQL + pgvector, OpenAI GPT-4
 
 ### [Smart Email Assistant](https://github.com/harishm17/smart_email)
-> Multi-agent system for automated email drafting with 100% PII protection
-- **Stack:** Python, LangChain, Gemini, Guardrails AI, Google Workspace APIs
-- **Innovation:** LLM judge validation prevents sensitive data leakage
-- 🤖 3-agent orchestration (planner → retriever → drafter) | 📅 Calendar integration
+Multi-agent system for automated email drafting with 100% PII protection via LLM judge validation.
+
+**Tech:** Python, LangChain, Gemini, Guardrails AI, Google Workspace APIs
 
 ### [Content Similarity Detection](https://github.com/harishm17/Content-Similarity-Detection)
-> Real-time plagiarism detection using Siamese LSTM networks
-- **Stack:** PyTorch, LSTM, FastAPI, NLP
-- **Results:** 95% F1-score, deployed web service
-- 📊 Showcased at IIT Madras Programming Club
+Real-time plagiarism detection using Siamese LSTM networks. **Result:** 95% F1-score, deployed web service.
+
+**Tech:** PyTorch, LSTM, FastAPI, NLP
 
 ### [Othello Game Bot](https://github.com/harishm17/Othello-game-bot)
-> Competitive game AI with neural network evaluation
-- **Stack:** C++, Reinforcement Learning, Neural Networks, Alpha-Beta Pruning
-- **Performance:** 60-70% search space reduction, 8-10 move lookahead
-- 🧠 NN position evaluation | ⚡ Optimized game tree search
+Competitive game AI with neural network evaluation. **Performance:** 60-70% search space reduction, 8-10 move lookahead.
 
-## 💼 Experience Highlights
+**Tech:** C++, Reinforcement Learning, Neural Networks, Alpha-Beta Pruning
 
-**Purgo AI** - Software Engineer Intern (Jun 2025 - Present)
-- 80% reduction in manual validation through full-stack automation (TypeScript, Python, NestJS, React)
-- DocuSign OAuth 2.0 integration for end-to-end eSignature workflows
-- CI/CD pipeline with Docker + GitHub Actions → GCP Cloud Run
+---
 
-**Digitus Business Solutions** - Software Engineer Intern (May - Jul 2024)
-- Self-correcting text-to-SQL chatbot with iterative refinement
-- Malaysia tax compliance integration (QAD ERP ↔ LHDNM MyInvois)
+## Technical Skills
 
-**PwC India** - Technology Consultant Intern (May - Jul 2023)
-- Customer segmentation and churn prediction ML models
-- PowerBI dashboards for strategic decision-making
+**Languages:** TypeScript, Python, C++, Go, JavaScript, SQL
+**Frontend:** React, Next.js, Vite, TailwindCSS
+**Backend:** NestJS, FastAPI, Django, Node.js
+**AI/ML:** LangChain, LangGraph, PyTorch, TensorFlow, OpenAI, Gemini
+**Infrastructure:** GCP (Cloud Run, Cloud SQL), Docker, Kubernetes, GitHub Actions
+**Databases:** PostgreSQL, Redis, MongoDB, pgvector, ChromaDB
 
-## 📊 GitHub Stats
+---
+
+## GitHub Activity
 
 <a href="https://github.com/harishm17">
   <img height=200 align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api?username=harishm17&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/harishm17">
-  <img height=200 align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&card_width=320" />
 </a>
 
-## 🛠️ Tech Stack
+---
 
-**Languages:** TypeScript • Python • C++ • Go • JavaScript • SQL
-**Frontend:** React • Next.js • Vite • TailwindCSS
-**Backend:** NestJS • FastAPI • Django • Node.js
-**AI/ML:** OpenAI API • LangChain • LangGraph • PyTorch • TensorFlow • Gemini
-**Databases:** PostgreSQL • Redis • MongoDB • pgvector • ChromaDB
-**Cloud/DevOps:** GCP (Cloud Run, Cloud SQL, Cloud Storage) • Docker • Kubernetes • GitHub Actions
-**Tools:** Git • Postman • Power BI • Figma
+## Open to Opportunities
 
-## 🔭 Currently
+Currently building clinical data validation automation at Purgo AI. Seeking **full-time Software Engineer roles starting May 2026**.
 
-- Building clinical data validation automation at **Purgo AI** (TypeScript, NestJS, React, Docker, GCP)
-- Exploring multi-agent LLM architectures with LangChain and LangGraph
-- Reading: "Designing Data-Intensive Applications" by Martin Kleppmann
-- Open to Software Engineer roles starting **May 2026**
+**Interested in:** Full-stack development, AI/ML systems, distributed systems
 
-## 📫 Connect
+📧 harish.manoharan@utdallas.edu • 🌐 [Portfolio](https://harishm17.github.io) • 💼 [LinkedIn](https://linkedin.com/in/harishm17)
 
-🌐 [Portfolio](https://harishm17.github.io) • 💼 [LinkedIn](https://linkedin.com/in/harishm17) • 📧 harish.manoharan@utdallas.edu
-
-📍 Dallas, TX | Open to full-time SWE roles May 2026
+📍 Dallas, TX
