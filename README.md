@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** | AI/ML Specialist
 
-MS Computer Science @ UT Dallas | BS Computer Science (IIT Madras)
+MS Computer Science @ UT Dallas | Undergrad @ IIT Madras
 
 Quick links: [Portfolio](https://harishm17.github.io) • [LinkedIn](https://linkedin.com/in/harishm17) • [Email](mailto:harish.manoharan@utdallas.edu)
 
