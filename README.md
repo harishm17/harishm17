@@ -1,61 +1,31 @@
 # Harish Manoharan
 
-**Full-Stack Software Engineer** | AI/ML Specialist | Building intelligent automation at Purgo AI
+**Full-Stack Software Engineer** | AI/ML Specialist
 
 MS Computer Science @ UT Dallas | BS Computer Science (IIT Madras)
 
 Quick links: [Portfolio](https://harishm17.github.io) • [LinkedIn](https://linkedin.com/in/harishm17) • [Email](mailto:harish.manoharan@utdallas.edu)
 
----
-
-## Experience
-
-**Purgo AI** — Software Engineer Intern *(Jun 2025 - Present)*
-- Automated clinical data validation using TypeScript, Python, NestJS, React
-- Integrated DocuSign OAuth 2.0 for end-to-end eSignature workflows
-- Deployed CI/CD pipeline (Docker + GitHub Actions → GCP Cloud Run)
-
-**Digitus Business Solutions** — Software Engineer Intern *(May - Jul 2024)*
-- Built self-correcting text-to-SQL chatbot with iterative refinement
-- Integrated Malaysia tax compliance (QAD ERP ↔ LHDNM MyInvois)
-
-**PwC India** — Technology Consultant Intern *(May - Jul 2023)*
-- Developed customer segmentation and churn prediction models
-- Built Power BI dashboards for executive decision-making
+Currently focused on full-stack systems, AI/ML workflows, and cloud deployment.
 
 ---
 
-## Featured Work
+## Selected Projects
 
-**[StudyBuddy](https://github.com/harishm17/study_buddy)**  
-AI-powered learning platform that converts PDFs to personalized study materials with automated grading.  
-Result: 85% cost reduction via hybrid semantic search.  
-Tech: Next.js 15, FastAPI, PostgreSQL + pgvector, OpenAI GPT-4
-
-**[Smart Email Assistant](https://github.com/harishm17/smart_email)**  
-Multi-agent system for automated email drafting with 100% PII protection via LLM judge validation.  
-Tech: Python, LangChain, Gemini, Guardrails AI, Google Workspace APIs
-
-**[Content Similarity Detection](https://github.com/harishm17/Content-Similarity-Detection)**  
-Real-time plagiarism detection using Siamese LSTM networks.  
-Result: 95% F1-score, deployed web service.  
-Tech: PyTorch, LSTM, FastAPI, NLP
-
-**[Othello Game Bot](https://github.com/harishm17/Othello-game-bot)**  
-Competitive game AI with neural network evaluation.  
-Performance: 60-70% search space reduction, 8-10 move lookahead.  
-Tech: C++, Reinforcement Learning, Neural Networks, Alpha-Beta Pruning
+| Project | Outcome | Stack |
+| --- | --- | --- |
+| **[StudyBuddy](https://github.com/harishm17/study_buddy)** | 85% cost reduction via hybrid semantic search | Next.js 15, FastAPI, PostgreSQL + pgvector, GPT-4 |
+| **[Smart Email Assistant](https://github.com/harishm17/smart_email)** | PII-safe multi-agent drafting with judge validation | Python, LangChain, Gemini, Guardrails AI, Google Workspace APIs |
+| **[Content Similarity Detection](https://github.com/harishm17/Content-Similarity-Detection)** | 95% F1-score, deployed web service | PyTorch, LSTM, FastAPI, NLP |
+| **[Othello Game Bot](https://github.com/harishm17/Othello-game-bot)** | 60-70% search space reduction, 8-10 move lookahead | C++, RL, Neural Networks, Alpha-Beta Pruning |
 
 ---
 
-## Technical Skills
+## Core Stack
 
-**Languages:** TypeScript, Python, C++, Go, JavaScript, SQL  
-**Frontend:** React, Next.js, Vite, TailwindCSS  
-**Backend:** NestJS, FastAPI, Django, Node.js  
-**AI/ML:** LangChain, LangGraph, PyTorch, TensorFlow, OpenAI, Gemini  
-**Infrastructure:** GCP (Cloud Run, Cloud SQL), Docker, Kubernetes, GitHub Actions  
-**Databases:** PostgreSQL, Redis, MongoDB, pgvector, ChromaDB
+TypeScript, Python, React, Next.js, NestJS, FastAPI, PostgreSQL, GCP, Docker
+
+**Also used:** Go, C++, JavaScript, SQL, TailwindCSS, Django, Node.js, LangChain, LangGraph, PyTorch, TensorFlow, OpenAI, Gemini, Kubernetes, GitHub Actions, Redis, MongoDB, pgvector, ChromaDB
 
 ---
 
@@ -69,11 +39,5 @@ Tech: C++, Reinforcement Learning, Neural Networks, Alpha-Beta Pruning
 </a>
 
 ---
-
-## Currently
-
-Building intelligent automation at Purgo AI. Focus: full-stack systems, AI/ML workflows, and cloud deployment.
-
-📧 harish.manoharan@utdallas.edu • 🌐 [Portfolio](https://harishm17.github.io) • 💼 [LinkedIn](https://linkedin.com/in/harishm17)
 
 📍 Dallas, TX
