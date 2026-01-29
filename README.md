@@ -14,7 +14,7 @@ Currently focused on full-stack systems and AI/ML workflows.
 
 | Project | What it does |
 | --- | --- |
-| **[StudyBuddy](https://github.com/harishm17/study_buddy)** | Turns PDFs into personalized study materials with automated grading. |
+| **[StudyBuddy](https://github.com/harishm17/study_buddy)** | Turns lecture slides, books, and sample papers into personalized study materials, quizzes, and sample exams with automated grading. |
 | **[Smart Email Assistant](https://github.com/harishm17/smart_email)** | Drafts emails using multi‑agent workflows with PII protection. |
 | **[Content Similarity Detection](https://github.com/harishm17/Content-Similarity-Detection)** | Detects plagiarism in real time using Siamese LSTM models. |
 | **[Othello Game Bot](https://github.com/harishm17/Othello-game-bot)** | Competitive Othello AI with neural‑network evaluation. |
