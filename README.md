@@ -8,22 +8,19 @@ Currently focused on full-stack systems and AI/ML workflows.
 
 ---
 
-## Selected Projects
+## Projects
 
-| Project | What it does |
-| --- | --- |
-| **[StudyBuddy](https://github.com/harishm17/study_buddy)** | Turns lecture slides, books, and sample papers into personalized study materials, quizzes, and sample exams with automated grading. |
-| **[Smart Email Assistant](https://github.com/harishm17/smart_email)** | Drafts emails using multi‑agent workflows with PII protection. |
-| **[Content Similarity Detection](https://github.com/harishm17/Content-Similarity-Detection)** | Detects plagiarism in real time using Siamese LSTM models. |
-| **[Othello Game Bot](https://github.com/harishm17/Othello-game-bot)** | Competitive Othello AI with neural‑network evaluation. |
+- **[StudyBuddy](https://github.com/harishm17/study_buddy)** — Turns lecture slides, books, and sample papers into personalized study materials, quizzes, and sample exams with automated grading.
+- **[Smart Email Assistant](https://github.com/harishm17/smart_email)** — Drafts emails using multi-agent workflows with PII protection.
+- **[Content Similarity Detection](https://github.com/harishm17/Content-Similarity-Detection)** — Detects plagiarism in real time using Siamese LSTM models.
+- **[Othello Game Bot](https://github.com/harishm17/Othello-game-bot)** — Competitive Othello AI with neural-network evaluation.
 
 ---
 
 ## Core Stack
 
-`TypeScript` `Python` `React` `Next.js` `NestJS` `FastAPI` `PostgreSQL` `GCP` `Docker`
-
-Also used: `Go` `C++` `JavaScript` `SQL` `TailwindCSS` `Django` `Node.js` `LangChain` `LangGraph` `PyTorch` `TensorFlow` `OpenAI` `Gemini` `Kubernetes` `GitHub Actions` `Redis` `MongoDB` `pgvector` `ChromaDB`
+Core: `TypeScript` `Python` `React` `Next.js` `NestJS` `FastAPI` `PostgreSQL` `GCP` `Docker`  
+Toolbox: `Go` `C++` `JavaScript` `SQL` `TailwindCSS` `Django` `Node.js` `LangChain` `LangGraph` `PyTorch` `TensorFlow` `OpenAI` `Gemini` `Kubernetes` `GitHub Actions` `Redis` `MongoDB` `pgvector` `ChromaDB`
 
 ---
 
