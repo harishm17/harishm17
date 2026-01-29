@@ -6,26 +6,26 @@ MS Computer Science @ UT Dallas | Undergrad @ IIT Madras
 
 Quick links: [Portfolio](https://harishm17.github.io) • [LinkedIn](https://linkedin.com/in/harishm17) • [Email](mailto:harish.manoharan@utdallas.edu)
 
-Currently focused on full-stack systems, AI/ML workflows, and cloud deployment.
+Currently focused on full-stack systems and AI/ML workflows.
 
 ---
 
 ## Selected Projects
 
-| Project | Outcome | Stack |
-| --- | --- | --- |
-| **[StudyBuddy](https://github.com/harishm17/study_buddy)** | 85% cost reduction via hybrid semantic search | Next.js 15, FastAPI, PostgreSQL + pgvector, GPT-4 |
-| **[Smart Email Assistant](https://github.com/harishm17/smart_email)** | PII-safe multi-agent drafting with judge validation | Python, LangChain, Gemini, Guardrails AI, Google Workspace APIs |
-| **[Content Similarity Detection](https://github.com/harishm17/Content-Similarity-Detection)** | 95% F1-score, deployed web service | PyTorch, LSTM, FastAPI, NLP |
-| **[Othello Game Bot](https://github.com/harishm17/Othello-game-bot)** | 60-70% search space reduction, 8-10 move lookahead | C++, RL, Neural Networks, Alpha-Beta Pruning |
+| Project | What it does |
+| --- | --- |
+| **[StudyBuddy](https://github.com/harishm17/study_buddy)** | Turns PDFs into personalized study materials with automated grading. |
+| **[Smart Email Assistant](https://github.com/harishm17/smart_email)** | Drafts emails using multi‑agent workflows with PII protection. |
+| **[Content Similarity Detection](https://github.com/harishm17/Content-Similarity-Detection)** | Detects plagiarism in real time using Siamese LSTM models. |
+| **[Othello Game Bot](https://github.com/harishm17/Othello-game-bot)** | Competitive Othello AI with neural‑network evaluation. |
 
 ---
 
 ## Core Stack
 
-TypeScript, Python, React, Next.js, NestJS, FastAPI, PostgreSQL, GCP, Docker
+`TypeScript` `Python` `React` `Next.js` `NestJS` `FastAPI` `PostgreSQL` `GCP` `Docker`
 
-**Also used:** Go, C++, JavaScript, SQL, TailwindCSS, Django, Node.js, LangChain, LangGraph, PyTorch, TensorFlow, OpenAI, Gemini, Kubernetes, GitHub Actions, Redis, MongoDB, pgvector, ChromaDB
+Also used: `Go` `C++` `JavaScript` `SQL` `TailwindCSS` `Django` `Node.js` `LangChain` `LangGraph` `PyTorch` `TensorFlow` `OpenAI` `Gemini` `Kubernetes` `GitHub Actions` `Redis` `MongoDB` `pgvector` `ChromaDB`
 
 ---
 
