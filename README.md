@@ -1,5 +1,3 @@
-# Harish Manoharan
-
 **Full-Stack Software Engineer** | AI/ML Specialist
 
 MS Computer Science @ UT Dallas | Undergrad @ IIT Madras
@@ -32,7 +30,7 @@ Also used: `Go` `C++` `JavaScript` `SQL` `TailwindCSS` `Django` `Node.js` `LangC
 ## GitHub Activity
 
 <a href="https://github.com/harishm17">
-  <img align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api?username=harishm17&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api?username=harishm17&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues,stars" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/harishm17">
   <img align="center" src="https://github-readme-stats-rho-swart-11.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
