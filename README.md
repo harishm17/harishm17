@@ -12,7 +12,20 @@
   MS Computer Science @ UT Dallas · Undergrad @ IIT Madras · Dallas, TX
 </p>
 
-I build full-stack products with applied AI/ML (LLMs, agents, evaluation) from API to UI.
+I build end-to-end products with applied AI/ML (LLMs, agents, evaluation) from API to UI.
+
+<details>
+<summary><b>Recent updates</b></summary>
+
+<!--LATEST:start-->
+- [study_buddy](https://github.com/harishm17/study_buddy) — AI-powered learning platform for exam prep with automated content generation, semantic se… · updated Jan 28, 2026
+- [harishm17.github.io](https://github.com/harishm17/harishm17.github.io) — Personal portfolio website showcasing AI/ML projects and software engineering work · updated Jan 28, 2026
+- [Othello-game-bot](https://github.com/harishm17/Othello-game-bot) — updated Jan 28, 2026
+- [smart_email](https://github.com/harishm17/smart_email) — updated Jan 28, 2026
+- [Content-Similarity-Detection](https://github.com/harishm17/Content-Similarity-Detection) — updated Jan 28, 2026
+<!--LATEST:end-->
+
+</details>
 
 ---
 
