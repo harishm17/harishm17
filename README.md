@@ -29,8 +29,8 @@ I build end-to-end AI products with reliable LLM workflows (evaluation, safety, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/harishm17/Othello-game-bot">Othello Game Bot</a></b><br />
-      Competitive Othello AI with neural-network evaluation.
+      <b><a href="https://github.com/harishm17/task-manager">DivvyDo</a></b><br />
+      Roommate-first tasks + expense splitting with real-time sync, receipts, and settlements.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/harishm17?tab=repositories">More projects</a></b><br />
