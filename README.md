@@ -35,12 +35,12 @@ I build end-to-end AI products with reliable LLM workflows (evaluation, safety, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/harishm17/Content-Similarity-Detection">Content Similarity Detection</a></b><br />
-      Detects plagiarism in real time using Siamese LSTM models.
-    </td>
-    <td width="50%" valign="top">
       <b><a href="https://github.com/harishm17/Othello-game-bot">Othello Game Bot</a></b><br />
       Competitive Othello AI with neural-network evaluation.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/harishm17?tab=repositories">More projects</a></b><br />
+      See the full list of repos and experiments.
     </td>
   </tr>
 </table>
