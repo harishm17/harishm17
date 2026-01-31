@@ -9,10 +9,16 @@
 </p>
 
 <p align="center">
-  MS Computer Science @ UT Dallas · Undergrad @ IIT Madras · Dallas, TX
+  MS Computer Science @ UT Dallas · Undergrad @ IIT Madras
 </p>
 
-I build end-to-end products with applied AI/ML (LLMs, agents, evaluation) from API to UI.
+I build end-to-end AI products with reliable LLM workflows (evaluation, safety, and deployment) from API to UI.
+
+## Proof
+
+- Shipped full-stack LLM workflows with retrieval + eval harnesses
+- Built privacy-first pipelines with PII redaction and output validation
+- Production features: OAuth, webhooks, CI/CD, and cloud deployment
 
 ## Projects
 
@@ -20,11 +26,11 @@ I build end-to-end products with applied AI/ML (LLMs, agents, evaluation) from A
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/harishm17/study_buddy">StudyBuddy</a></b><br />
-      Turns lecture slides, books, and past papers into study notes, quizzes, and practice exams with automated grading.
+      Exam‑prep RAG + quiz generator with an evaluation harness and cost‑aware retrieval.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/harishm17/smart_email">Smart Email Assistant</a></b><br />
-      Drafts emails using multi-agent workflows with PII protection.
+      Privacy‑first multi‑agent drafting with PII redaction and OAuth‑secured Gmail/Calendar access.
     </td>
   </tr>
   <tr>
