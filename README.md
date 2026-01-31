@@ -20,7 +20,7 @@ I build end-to-end AI products with reliable LLM workflows (evaluation, safety, 
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/harishm17/study_buddy">StudyBuddy</a></b><br />
-      Exam‑prep RAG + quiz generator with an evaluation harness and cost‑aware retrieval.
+      Exam‑prep RAG platform that turns course materials into notes, quizzes, and practice exams with automated grading.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/harishm17/smart_email">Smart Email Assistant</a></b><br />
