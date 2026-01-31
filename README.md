@@ -12,7 +12,9 @@
   MS Computer Science @ UT Dallas · Undergrad @ IIT Madras
 </p>
 
-I build end-to-end AI products with reliable LLM workflows (evaluation, safety, and deployment) from API to UI.
+Software Engineer | Full-Stack AI (LLMs, RAG, Agents) · Python · TypeScript · React · PyTorch
+
+I build LLM-driven systems (RAG pipelines, agent workflows, end-to-end apps) from API to UI with a focus on reliability and practical shipping.
 
 ## Projects
 
