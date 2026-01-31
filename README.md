@@ -10,6 +10,8 @@
 
 Software Engineer | Full-Stack AI (LLMs, RAG, Agents) · Python · TypeScript · React · PyTorch
 
+MS Computer Science @ UT Dallas · Undergrad @ IIT Madras
+
 I build LLM-driven systems (RAG pipelines, agent workflows, end-to-end apps) from API to UI with a focus on reliability and practical shipping.
 
 ## Projects
