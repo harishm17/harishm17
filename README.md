@@ -41,28 +41,16 @@ I build LLM-driven systems - RAG pipelines, agent workflows, and end-to-end appl
 
 ## Core Stack
 
-<table>
-  <tr>
-    <td width="18%"><b>Languages</b></td>
-    <td><code>TypeScript</code> <code>Python</code> <code>Go</code> <code>C++</code> <code>JavaScript</code> <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td><b>Web</b></td>
-    <td><code>React</code> <code>Next.js</code> <code>NestJS</code> <code>FastAPI</code> <code>Node.js</code> <code>Django</code> <code>TailwindCSS</code></td>
-  </tr>
-  <tr>
-    <td><b>AI/ML</b></td>
-    <td><code>LangChain</code> <code>LangGraph</code> <code>PyTorch</code> <code>TensorFlow</code> <code>OpenAI</code> <code>Gemini</code></td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td><code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> <code>pgvector</code> <code>ChromaDB</code></td>
-  </tr>
-  <tr>
-    <td><b>Infra</b></td>
-    <td><code>GCP</code> <code>Docker</code> <code>Kubernetes</code> <code>GitHub Actions</code></td>
-  </tr>
-</table>
+<p><b>Languages</b><br />
+<code>TypeScript</code> <code>Python</code> <code>Go</code> <code>C++</code> <code>JavaScript</code> <code>SQL</code></p>
+<p><b>Web</b><br />
+<code>React</code> <code>Next.js</code> <code>NestJS</code> <code>FastAPI</code> <code>Node.js</code> <code>Django</code> <code>TailwindCSS</code></p>
+<p><b>AI/ML</b><br />
+<code>LangChain</code> <code>LangGraph</code> <code>PyTorch</code> <code>TensorFlow</code> <code>OpenAI</code> <code>Gemini</code></p>
+<p><b>Data</b><br />
+<code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> <code>pgvector</code> <code>ChromaDB</code></p>
+<p><b>Infra</b><br />
+<code>GCP</code> <code>Docker</code> <code>Kubernetes</code> <code>GitHub Actions</code></p>
 
 ## GitHub Activity
 
