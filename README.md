@@ -14,12 +14,6 @@
 
 I build end-to-end AI products with reliable LLM workflows (evaluation, safety, and deployment) from API to UI.
 
-## Proof
-
-- Shipped full-stack LLM workflows with retrieval + eval harnesses
-- Built privacy-first pipelines with PII redaction and output validation
-- Production features: OAuth, webhooks, CI/CD, and cloud deployment
-
 ## Projects
 
 <table>
