@@ -8,9 +8,9 @@
   <a href="mailto:harish.manoharan@utdallas.edu">Email</a>
 </p>
 
-Software Engineer | Full-Stack AI (LLMs, RAG, Agents) · Python · TypeScript · React · PyTorch
-
-MS Computer Science @ UT Dallas · Undergrad @ IIT Madras
+<p align="center">
+  MS Computer Science @ UT Dallas · Undergrad @ IIT Madras
+</p>
 
 I build LLM-driven systems—RAG pipelines, agent workflows, and end-to-end applications—shipping from rough prototype to production with a focus on clean, practical engineering and speed.
 
