@@ -12,7 +12,7 @@
   MS Computer Science @ UT Dallas · Undergrad @ IIT Madras
 </p>
 
-I build LLM-driven systems—RAG pipelines, agent workflows, and end-to-end applications—shipping from rough prototype to production with a focus on clean, practical engineering and speed.
+I build LLM-driven systems - RAG pipelines, agent workflows, and end-to-end applications - shipping from rough prototype to production with a focus on clean, practical engineering and speed.
 
 ## Projects
 
