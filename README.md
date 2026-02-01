@@ -73,10 +73,10 @@ I build LLM-driven systems - RAG pipelines, agent workflows, and end-to-end appl
 <summary><b>Recent updates</b></summary>
 
 <!--LATEST:start-->
-- [task-manager](https://github.com/harishm17/task-manager) — updated Jan 31, 2026
-- [smart_email](https://github.com/harishm17/smart_email) — updated Jan 31, 2026
-- [study_buddy](https://github.com/harishm17/study_buddy) — AI-powered learning platform for exam prep with automated content generation, semantic se… · updated Jan 31, 2026
-- [harishm17.github.io](https://github.com/harishm17/harishm17.github.io) — Personal portfolio website showcasing AI/ML projects and software engineering work · updated Jan 28, 2026
+- [task-manager](https://github.com/harishm17/task-manager) — Roommate‑first tasks + expense splitting app with realtime sync, receipts, and balance se… · updated Jan 31, 2026
+- [smart_email](https://github.com/harishm17/smart_email) — Privacy‑first multi‑agent email assistant with PII redaction and OAuth‑secured Gmail/Cale… · updated Jan 31, 2026
+- [study_buddy](https://github.com/harishm17/study_buddy) — Exam‑prep RAG platform that turns course materials into notes, quizzes, and practice exam… · updated Jan 31, 2026
+- [harishm17.github.io](https://github.com/harishm17/harishm17.github.io) — Personal portfolio website showcasing AI/ML projects and software engineering work · updated Jan 31, 2026
 - [Othello-game-bot](https://github.com/harishm17/Othello-game-bot) — updated Jan 28, 2026
 <!--LATEST:end-->
 
