@@ -73,7 +73,7 @@ I build LLM-driven systems - RAG pipelines, agent workflows, and end-to-end appl
 <summary><b>Recent updates</b></summary>
 
 <!--LATEST:start-->
-- [harishm17.github.io](https://github.com/harishm17/harishm17.github.io) — Personal portfolio website showcasing AI/ML projects and software engineering work · updated Feb 09, 2026
+- [harishm17.github.io](https://github.com/harishm17/harishm17.github.io) — Personal portfolio website showcasing AI/ML projects and software engineering work · updated Feb 10, 2026
 - [study_buddy](https://github.com/harishm17/study_buddy) — Exam‑prep RAG platform that turns course materials into notes, quizzes, and practice exam… · updated Feb 08, 2026
 - [task-manager](https://github.com/harishm17/task-manager) — Roommate‑first tasks + expense splitting app with realtime sync, receipts, and balance se… · updated Feb 04, 2026
 - [smart_email](https://github.com/harishm17/smart_email) — Privacy‑first multi‑agent email assistant with PII redaction and OAuth‑secured Gmail/Cale… · updated Feb 04, 2026
