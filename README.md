@@ -73,7 +73,7 @@ I build LLM-driven systems - RAG pipelines, agent workflows, and end-to-end appl
 <summary><b>Recent updates</b></summary>
 
 <!--LATEST:start-->
-- [llm-unlearning](https://github.com/harishm17/llm-unlearning) — updated Mar 28, 2026
+- [llm-unlearning](https://github.com/harishm17/llm-unlearning) — updated Mar 29, 2026
 - [personal-operating-system](https://github.com/harishm17/personal-operating-system) — updated Mar 28, 2026
 - [harishm17.github.io](https://github.com/harishm17/harishm17.github.io) — Personal portfolio website showcasing AI/ML projects and software engineering work · updated Mar 27, 2026
 - [study_buddy](https://github.com/harishm17/study_buddy) — Exam‑prep RAG platform that turns course materials into notes, quizzes, and practice exam… · updated Feb 08, 2026
