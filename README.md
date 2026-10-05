@@ -5,14 +5,19 @@
 <p align="center">
   <a href="https://harishm17.github.io">Portfolio</a> ·
   <a href="https://linkedin.com/in/harishm17">LinkedIn</a> ·
-  <a href="mailto:harish.manoharan@utdallas.edu">Email</a>
+  <a href="mailto:harish_manoharan@outlook.com">Email</a>
 </p>
 
-<p align="center">
-  MS Computer Science @ UT Dallas · Undergrad @ IIT Madras
-</p>
+Software Engineer at **Purgo AI** in the San Francisco Bay Area. I build retrieval and evaluation for the LLM agent that turns data engineering tickets into Databricks and dbt code.
 
-I build LLM-driven systems - RAG pipelines, agent workflows, and end-to-end applications - shipping from rough prototype to production with a focus on clean, practical engineering and speed.
+## Recent results at Purgo AI
+
+- **70% fewer missed source tables** after adding dbt lineage to the agent's table retrieval (103-ticket benchmark)
+- **Semantic table search on Pinecone** that finds 26% more of the right tables, about 20x faster than the existing search (188 real queries)
+- **7.6x cheaper retrieval and drafting** at the same recall, chosen after a five-run, 102-ticket model comparison
+- **Purgo's LLM validation product**: 19 tests and 100+ checks for hallucination, accuracy, bias, determinism and traceability
+
+Most of this lives in private repos. The public part is [PurgoAI/iqoq-testcases](https://github.com/PurgoAI/iqoq-testcases), the Databricks IQ/OQ test library I wrote (59 tests in 17 suites, Azure and AWS).
 
 ## Projects
 
@@ -20,64 +25,31 @@ I build LLM-driven systems - RAG pipelines, agent workflows, and end-to-end appl
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/harishm17/study_buddy">StudyBuddy</a></b><br />
-      Exam‑prep RAG platform that turns course materials into notes, quizzes, and practice exams with automated grading.
+      Exam prep from course PDFs: pgvector retrieval, generated quizzes and graded exams, and a real-time voice coach on the OpenAI Realtime API.
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/harishm17/smart_email">Smart Email Assistant</a></b><br />
-      Privacy‑first multi‑agent drafting with PII redaction and OAuth‑secured Gmail/Calendar access.
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/harishm17/task-manager">DivvyDo</a></b><br />
-      Roommate-first tasks + expense splitting with real-time sync, receipts, and settlements.
+      Roommate expense splitting with five split methods and integer-cents rounding that always adds up. Supabase with row-level security.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/harishm17/smart_email">Email Drafting Assistant</a></b><br />
+      Turns a plain-language request into a Gmail draft, with PII scrubbed before any text reaches the model.
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/harishm17?tab=repositories">More projects</a></b><br />
-      See the full list of repos and experiments.
+      <b><a href="https://github.com/harishm17?tab=repositories">More</a></b><br />
+      Coursework, experiments and older projects.
     </td>
   </tr>
 </table>
 
-## Core Stack
+## Stack
 
-<p><b>Languages</b><br />
-<code>TypeScript</code> <code>Python</code> <code>Go</code> <code>C++</code> <code>JavaScript</code> <code>SQL</code></p>
-<p><b>Web</b><br />
-<code>React</code> <code>Next.js</code> <code>NestJS</code> <code>FastAPI</code> <code>Node.js</code> <code>Django</code> <code>TailwindCSS</code></p>
-<p><b>AI/ML</b><br />
-<code>LangChain</code> <code>LangGraph</code> <code>PyTorch</code> <code>TensorFlow</code> <code>OpenAI</code> <code>Gemini</code></p>
-<p><b>Data</b><br />
-<code>PostgreSQL</code> <code>Redis</code> <code>MongoDB</code> <code>pgvector</code> <code>ChromaDB</code></p>
-<p><b>Infra</b><br />
-<code>GCP</code> <code>Docker</code> <code>Kubernetes</code> <code>GitHub Actions</code></p>
+**Languages:** Python, TypeScript, SQL<br />
+**LLM and agents:** LangGraph, LangChain, OpenAI, Anthropic, Gemini, Langfuse, PyTorch<br />
+**Data:** Databricks, dbt, PySpark, PostgreSQL, pgvector, Pinecone, Apache Iceberg<br />
+**Backend and web:** FastAPI, NestJS, Next.js, React<br />
+**Infra:** GCP (Cloud Run, Cloud Tasks), Docker, GitHub Actions
 
-## GitHub Activity
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/harishm17">
-        <img src="https://github-readme-stats-rho-swart-11.vercel.app/api?username=harishm17&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&hide=issues,stars" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/harishm17">
-        <img src="https://github-readme-stats-rho-swart-11.vercel.app/api/top-langs/?username=harishm17&layout=compact&theme=transparent&hide_border=true&langs_count=8&count_private=true&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>Recent updates</b></summary>
-
-<!--LATEST:start-->
-- [personal-operating-system](https://github.com/harishm17/personal-operating-system) — updated May 15, 2026
-- [llm-unlearning](https://github.com/harishm17/llm-unlearning) — updated Mar 30, 2026
-- [harishm17.github.io](https://github.com/harishm17/harishm17.github.io) — Personal portfolio website showcasing AI/ML projects and software engineering work · updated Mar 27, 2026
-- [study_buddy](https://github.com/harishm17/study_buddy) — Exam‑prep RAG platform that turns course materials into notes, quizzes, and practice exam… · updated Feb 08, 2026
-- [task-manager](https://github.com/harishm17/task-manager) — Roommate‑first tasks + expense splitting app with realtime sync, receipts, and balance se… · updated Feb 04, 2026
-<!--LATEST:end-->
-
-</details>
+MS in Computer Science, UT Dallas (2026) · Dual degree in Data Science and Biological Sciences, IIT Madras

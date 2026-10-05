@@ -50,6 +50,6 @@
 
   <!-- Text -->
   <text x="80" y="132" fill="#FFFFFF" class="title">Harish Manoharan</text>
-  <text x="80" y="168" fill="#DCE7F7" class="subtitle">Software Engineer · Full-stack + AI/ML systems</text>
-  <text x="80" y="206" fill="#BFD2EA" class="small">TypeScript · Python · Full-Stack · LLM Systems</text>
+  <text x="80" y="168" fill="#DCE7F7" class="subtitle">Software Engineer at Purgo AI</text>
+  <text x="80" y="206" fill="#BFD2EA" class="small">LLM retrieval · evaluation · agents</text>
 </svg>
