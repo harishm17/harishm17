@@ -17,7 +17,7 @@ Software Engineer at **Purgo AI** in the San Francisco Bay Area. I build retriev
 - **7.6x cheaper retrieval and drafting** at the same recall, chosen after a five-run, 102-ticket model comparison
 - **Purgo's LLM validation product**: 19 tests and 100+ checks for hallucination, accuracy, bias, determinism and traceability
 
-Most of this lives in private repos. The public part is [PurgoAI/iqoq-testcases](https://github.com/PurgoAI/iqoq-testcases), the Databricks IQ/OQ test library I wrote (59 tests in 17 suites, Azure and AWS).
+This work is in Purgo's private repositories.
 
 ## Projects
 
