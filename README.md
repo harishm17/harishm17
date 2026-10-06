@@ -28,18 +28,13 @@ This work is in Purgo's private repositories.
       Exam prep from course PDFs: pgvector retrieval, generated quizzes and graded exams, and a real-time voice coach on the OpenAI Realtime API.
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/harishm17/task-manager">DivvyDo</a></b><br />
-      Roommate expense splitting with five split methods and integer-cents rounding that always adds up. Supabase with row-level security.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <b><a href="https://github.com/harishm17/smart_email">Email Drafting Assistant</a></b><br />
       Turns a plain-language request into a Gmail draft, with PII scrubbed before any text reaches the model.
     </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/harishm17?tab=repositories">More</a></b><br />
-      Coursework, experiments and older projects.
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b><a href="https://github.com/harishm17?tab=repositories">More</a></b>: coursework, experiments and older projects.
     </td>
   </tr>
 </table>
