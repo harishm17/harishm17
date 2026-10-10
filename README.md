@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://harishm17.github.io">Portfolio</a> ·
+  <a href="https://harishmanoharan.com">harishmanoharan.com</a> ·
   <a href="https://linkedin.com/in/harishm17">LinkedIn</a> ·
   <a href="mailto:harish_manoharan@outlook.com">Email</a>
 </p>
 
-Software Engineer at **Purgo AI** in the San Francisco Bay Area. I build retrieval and evaluation for the LLM agent that turns data engineering tickets into Databricks and dbt code.
+Software Engineer at **Purgo AI** in the San Francisco Bay Area. I build retrieval and evaluation for the agent that turns data engineering tickets into Databricks and dbt code.
 
 ## Recent results at Purgo AI
 
