@@ -1,4 +1,4 @@
-Hi, I'm Harish. I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area, working on agents, retrieval and LLM evaluation. Some of that work is written up on [harishmanoharan.com](https://harishmanoharan.com).
+Hi, I'm Harish. I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area, working on agents, retrieval and LLM evaluation.
 
 I studied biology and then data science at IIT Madras. As a student I worked on estimating cell types in tumors from gene expression and on modeling how microbes in homes support each other, and I wrote my master's thesis with The Jackson Laboratory on finding behaviors in mouse videos without labels. After that came an M.S. in computer science at UT Dallas.
 
@@ -10,4 +10,4 @@ Things I've built on my own:
 
 Away from work I go hiking, play table tennis, read, and play fast chess on [Lichess](https://lichess.org/@/harishm17).
 
-[LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
+[harishmanoharan.com](https://harishmanoharan.com) · [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
