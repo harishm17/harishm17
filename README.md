@@ -1,23 +1,13 @@
-Software engineer at [Purgo AI](https://www.purgo.ai/), working on agents, retrieval and LLM evaluation. San Francisco Bay Area.
+Hi, I'm Harish. I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area, working on agents, retrieval and LLM evaluation. Some of that work is written up on [harishmanoharan.com](https://harishmanoharan.com).
 
-[harishmanoharan.com](https://harishmanoharan.com) · [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
+I studied biology and then data science at IIT Madras. As a student I worked on estimating cell types in tumors from gene expression and on modeling how microbes in homes support each other, and I wrote my master's thesis with The Jackson Laboratory on finding behaviors in mouse videos without labels. After that came an M.S. in computer science at UT Dallas.
 
-### At Purgo
+Things I've built on my own:
 
-Our agent turns data-engineering tickets into Databricks and dbt code. I work on how it finds the tables a ticket needs, how it checks the code it writes, and the benchmarks we use to tell whether a change helped.
+- **a11y-stem** turns STEM course PDFs into accessible web pages, with equations as MathML a screen reader can speak.
+- **[StudyBuddy](https://github.com/harishm17/study_buddy)** turns course PDFs into notes, quizzes and practice exams, with a voice coach on the OpenAI Realtime API.
+- **[Gmail drafting assistant](https://github.com/harishm17/smart_email)** drafts an email from a plain-language request, using past messages for context.
 
-- Following dbt lineage during retrieval cut missed source tables from 79 to 24 on a 103-ticket benchmark. [Write-up](https://harishmanoharan.com/work/agent-retrieval/)
-- Semantic catalog search on Pinecone raised recall@10 from 0.54 to 0.68 and cut mean latency from 4.0 s to 0.18 s on 188 queries. [Write-up](https://harishmanoharan.com/work/agent-retrieval/#catalog-search)
-- Tests that qualify LLMs and Databricks platforms for regulated (GxP) use: hallucination, accuracy, bias, determinism, latency and traceability. [Write-up](https://harishmanoharan.com/work/llm-evaluation/)
+Away from work I play table tennis, read, and play fast chess on [Lichess](https://lichess.org/@/harishm17). Before that it was competitive programming: I reached Expert on Codeforces in 2020 and headed the coding and logic events at Shaastra, the student-run technical festival at IIT Madras.
 
-### Projects
-
-- **a11y-stem** (in progress, private until the beta): turns STEM course PDFs into accessible web pages, with equations as MathML a screen reader can speak.
-- **[StudyBuddy](https://github.com/harishm17/study_buddy)**: turns course PDFs into notes, quizzes and practice exams, with a voice coach on the OpenAI Realtime API.
-- **[Gmail drafting assistant](https://github.com/harishm17/smart_email)**: drafts an email from a plain-language request, using past messages for context.
-
-### Stack
-
-Python, TypeScript, SQL · LangGraph, OpenAI, Anthropic, Langfuse · Pinecone, pgvector · Databricks, dbt, PySpark, PostgreSQL · FastAPI, Next.js · GCP, Docker, GitHub Actions
-
-M.S. Computer Science, UT Dallas (2026) · Dual degree in data science and biology, IIT Madras (2024)
+[LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
