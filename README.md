@@ -8,6 +8,6 @@ Things I've built on my own:
 - **[StudyBuddy](https://github.com/harishm17/study_buddy)** turns course PDFs into notes, quizzes and practice exams, with a voice coach on the OpenAI Realtime API.
 - **[Gmail drafting assistant](https://github.com/harishm17/smart_email)** drafts an email from a plain-language request, using past messages for context.
 
-Away from work I play table tennis, read, and play fast chess on [Lichess](https://lichess.org/@/harishm17). Before that it was competitive programming: I reached Expert on Codeforces in 2020 and headed the coding and logic events at Shaastra, the student-run technical festival at IIT Madras.
+Away from work I play table tennis, read, and play fast chess on [Lichess](https://lichess.org/@/harishm17).
 
 [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
