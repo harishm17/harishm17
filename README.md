@@ -1,50 +1,23 @@
-<p align="center">
-  <img src="./assets/header-v2.svg" alt="Harish Manoharan" width="100%" />
-</p>
+Software engineer at [Purgo AI](https://www.purgo.ai/), working on agents, retrieval and LLM evaluation. San Francisco Bay Area.
 
-<p align="center">
-  <a href="https://harishmanoharan.com">harishmanoharan.com</a> ·
-  <a href="https://linkedin.com/in/harishm17">LinkedIn</a> ·
-  <a href="mailto:harish_manoharan@outlook.com">Email</a>
-</p>
+[harishmanoharan.com](https://harishmanoharan.com) · [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
 
-Software Engineer at **Purgo AI** in the San Francisco Bay Area. I build retrieval and evaluation for the agent that turns data engineering tickets into Databricks and dbt code.
+### At Purgo
 
-## Recent results at Purgo AI
+Our agent turns data-engineering tickets into Databricks and dbt code. I work on how it finds the tables a ticket needs, how it checks the code it writes, and the benchmarks we use to tell whether a change helped.
 
-- **70% fewer missed source tables** after adding dbt lineage to the agent's table retrieval (103-ticket benchmark)
-- **Semantic table search on Pinecone** that finds 26% more of the right tables, about 20x faster than the existing search (188 real queries)
-- **7.6x cheaper retrieval and drafting** at the same recall, chosen after a five-run, 102-ticket model comparison
-- **Purgo's LLM validation product**: 19 tests and 100+ checks for hallucination, accuracy, bias, determinism and traceability
+- Following dbt lineage during retrieval cut missed source tables from 79 to 24 on a 103-ticket benchmark. [Write-up](https://harishmanoharan.com/work/agent-retrieval/)
+- Semantic catalog search on Pinecone raised recall@10 from 0.54 to 0.68 and cut mean latency from 4.0 s to 0.18 s on 188 queries. [Write-up](https://harishmanoharan.com/work/agent-retrieval/#catalog-search)
+- Tests that qualify LLMs and Databricks platforms for regulated (GxP) use: hallucination, accuracy, bias, determinism, latency and traceability. [Write-up](https://harishmanoharan.com/work/llm-evaluation/)
 
-This work is in Purgo's private repositories.
+### Projects
 
-## Projects
+- **a11y-stem** (in progress, private until the beta): turns STEM course PDFs into accessible web pages, with equations as MathML a screen reader can speak.
+- **[StudyBuddy](https://github.com/harishm17/study_buddy)**: turns course PDFs into notes, quizzes and practice exams, with a voice coach on the OpenAI Realtime API.
+- **[Gmail drafting assistant](https://github.com/harishm17/smart_email)**: drafts an email from a plain-language request, using past messages for context.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/harishm17/study_buddy">StudyBuddy</a></b><br />
-      Exam prep from course PDFs: pgvector retrieval, generated quizzes and graded exams, and a real-time voice coach on the OpenAI Realtime API.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/harishm17/smart_email">Email Drafting Assistant</a></b><br />
-      Turns a plain-language request into a Gmail draft, with PII scrubbed before any text reaches the model.
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <b><a href="https://github.com/harishm17?tab=repositories">More</a></b>: coursework, experiments and older projects.
-    </td>
-  </tr>
-</table>
+### Stack
 
-## Stack
+Python, TypeScript, SQL · LangGraph, OpenAI, Anthropic, Langfuse · Pinecone, pgvector · Databricks, dbt, PySpark, PostgreSQL · FastAPI, Next.js · GCP, Docker, GitHub Actions
 
-**Languages:** Python, TypeScript, SQL<br />
-**LLM and agents:** LangGraph, LangChain, OpenAI, Anthropic, Gemini, Langfuse, PyTorch<br />
-**Data:** Databricks, dbt, PySpark, PostgreSQL, pgvector, Pinecone, Apache Iceberg<br />
-**Backend and web:** FastAPI, NestJS, Next.js, React<br />
-**Infra:** GCP (Cloud Run, Cloud Tasks), Docker, GitHub Actions
-
-MS in Computer Science, UT Dallas (2026) · Dual degree in Data Science and Biological Sciences, IIT Madras
+M.S. Computer Science, UT Dallas (2026) · Dual degree in data science and biology, IIT Madras (2024)
