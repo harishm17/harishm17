@@ -4,7 +4,7 @@ I studied biology and then data science at IIT Madras. As a student I worked on 
 
 Things I've built on my own:
 
-- **readablestem** (beta coming soon) turns STEM course PDFs into accessible web pages, with equations as MathML a screen reader can speak.
+- **[ReadableSTEM](https://readablestem.com)** turns STEM course PDFs into accessible web pages, with equations as MathML a screen reader can speak. It's a free, open-source beta for instructors, and I tested it on 15 textbook sections it had never seen, under a plan registered before the run ([write-up](https://harishmanoharan.com/work/readablestem/), [source](https://github.com/harishm17/readablestem)).
 - **[StudyBuddy](https://github.com/harishm17/study_buddy)** turns course PDFs into notes, quizzes and practice exams, with a voice coach on the OpenAI Realtime API.
 - **[Gmail drafting assistant](https://github.com/harishm17/smart_email)** drafts an email from a plain-language request on the command line, using past messages for context.
 
