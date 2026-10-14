@@ -1,4 +1,4 @@
-Hi, I'm Harish. I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area, working on agents, retrieval and LLM evaluation. Purgo's code is private; [write-ups with measured results](https://harishmanoharan.com/work) cover the retrieval and evaluation work.
+Hi, I'm Harish. I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area, working on agents, retrieval and evals. Purgo's code is private; [write-ups with measured results](https://harishmanoharan.com/work) cover the retrieval and eval work.
 
 I studied biology and then data science at IIT Madras. As a student I worked on estimating cell types in tumors from gene expression and on modeling how microbes in homes support each other, and I wrote my master's thesis with The Jackson Laboratory on finding behaviors in mouse videos without labels. After that came an M.S. in computer science at UT Dallas.
 
