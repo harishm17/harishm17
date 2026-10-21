@@ -7,6 +7,6 @@ Things I've built on my own:
 - **[ReadableSTEM](https://readablestem.com)** turns STEM course PDFs into accessible web pages, with equations as MathML a screen reader can speak. It's a free, open-source, invite-only beta for instructors. I evaluated it on a pre-registered held-out set of 15 OpenStax sections: heading F1 0.96 and 97% of figure descriptions passed by a model judge, while on whole-page equations a Claude Opus chatbot still scores higher, 0.62 to its 0.50 ([write-up](https://harishmanoharan.com/work/readablestem/), [source](https://github.com/harishm17/readablestem)).
 - **[Margins](https://studymargins.com)** turns your own course files into notes, worked examples, quizzes and timed practice exams, each citing the pages it came from, plus a voice coach. On a retrieval eval of 38 topics from three OpenStax textbooks, its hybrid search finds 99% of the relevant passages in the top 24 ([source](https://github.com/harishm17/margins)).
 
-Away from work I go hiking, play table tennis, read, and play fast chess on [Lichess](https://lichess.org/@/harishm17).
+Away from work I go hiking, play table tennis, read, and play chess on [Lichess](https://lichess.org/@/harishm17).
 
 [harishmanoharan.com](https://harishmanoharan.com) · [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
