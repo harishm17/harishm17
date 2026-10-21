@@ -5,8 +5,7 @@ I studied biology and then data science at IIT Madras. As a student I worked on 
 Things I've built on my own:
 
 - **[ReadableSTEM](https://readablestem.com)** turns STEM course PDFs into accessible web pages, with equations as MathML a screen reader can speak. It's a free, open-source, invite-only beta for instructors. I evaluated it on a pre-registered held-out set of 15 OpenStax sections: heading F1 0.96 and 97% of figure descriptions passed by a model judge, while on whole-page equations a Claude Opus chatbot still scores higher, 0.62 to its 0.50 ([write-up](https://harishmanoharan.com/work/readablestem/), [source](https://github.com/harishm17/readablestem)).
-- **[StudyBuddy](https://github.com/harishm17/study_buddy)** turns course PDFs into notes, quizzes and practice exams, with a voice coach on the OpenAI Realtime API.
-- **[Gmail drafting assistant](https://github.com/harishm17/smart_email)** drafts an email from a plain-language request on the command line, using past messages for context.
+- **[Margins](https://studymargins.com)** turns your own course files into notes, worked examples, quizzes and timed practice exams, with sources you can click back to, plus a voice coach. On a retrieval eval of 38 topics from three OpenStax textbooks, its hybrid search finds 99% of the relevant passages in the top 24 ([source](https://github.com/harishm17/margins)).
 
 Away from work I go hiking, play table tennis, read, and play fast chess on [Lichess](https://lichess.org/@/harishm17).
 
