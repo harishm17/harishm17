@@ -2,7 +2,7 @@
 
 I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area. I build backend services, agentic workflows and evals.
 
-[harishmanoharan.com](https://harishmanoharan.com) · [Write-ups](https://harishmanoharan.com/work/) · [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
+[harishmanoharan.com](https://harishmanoharan.com) · [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
 
 ### At Purgo AI, since 2025
 
