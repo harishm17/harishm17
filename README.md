@@ -45,7 +45,7 @@ I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisc
 
 **Internships**
 - Digitus (2024): built a text-to-SQL agent that raised execution accuracy from 52% to 76%, and a RAG helpdesk assistant that cut median time to resolution from 20 minutes to 6.
-- PwC (2023): built a customer analytics platform.
+- PwC (2023): cut demand-forecast error (MAPE) 15% against the baseline across 50+ SKUs, on a customer analytics platform I built.
 
 **Education**
 - M.S. in computer science, UT Dallas (2026)
