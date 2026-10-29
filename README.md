@@ -23,10 +23,10 @@ I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisc
 
 <table>
   <tr>
-    <td width="44%" valign="top"><a href="https://studymargins.com"><img src="images/margins.png" alt="Margins' plan page for a sample course: the exam date and this week's sessions."></a></td>
+    <td width="44%" valign="top"><a href="https://studymargins.com"><img src="images/margins.png" alt="Margins' plan page for a sample course: the exam in 16 days, and today's sessions, a review, a first quiz and a lesson."></a></td>
     <td valign="top"><b><a href="https://studymargins.com">Margins</a></b><br>
-    Turns your own course files into cited notes, quizzes and timed practice exams, plus a voice coach, and plans each day's work up to your exam.<br>
-    <a href="https://github.com/harishm17/margins">Source</a></td>
+    Turns your own course files into cited notes, quizzes and timed practice exams, plus a voice coach, and plans each day's work up to your exam. Hybrid search with reciprocal rank fusion raised retrieval MRR from 0.83 to 0.96 on a 38-topic eval.<br>
+    <a href="https://studymargins.com/evaluation">Evaluation</a> · <a href="https://github.com/harishm17/margins">Source</a></td>
   </tr>
 </table>
 
