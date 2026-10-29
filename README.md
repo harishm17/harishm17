@@ -1,4 +1,4 @@
-Hi, I'm Harish, an AI engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area. I design and build LLM agents, retrieval and evals.
+Hi, I'm Harish, a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area. I design and build LLM agents, retrieval and evals.
 
 **At Purgo AI, since 2025**
 
