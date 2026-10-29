@@ -34,7 +34,7 @@ I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisc
   <tr>
     <td width="44%" valign="top"><a href="https://holdbrief.com"><img src="images/holdbrief.png" alt="Holdbrief's view of Microsoft: Keep, the price inside its fair zone, and a year of prices with today's fair zone shaded."></a></td>
     <td valign="top"><b><a href="https://holdbrief.com">Holdbrief</a></b><br>
-    A daily brief on the stocks you follow, for US and Indian markets. It ranks each company against its market's peers, values the price three ways and sets the stance by fixed rules; a checker rejects any sentence Claude writes that doesn't cite its facts.<br>
+    A daily brief on the stocks you follow, for US and Indian markets. It ranks each company against its market's peers, values the price three ways and sets the stance by versioned rules. A checker rejects any sentence of the explanation that doesn't cite a real fact, and every view is graded later against the index.<br>
     <a href="https://holdbrief.com/how-it-works">How it works</a> · <a href="https://holdbrief.com/sample">Sample brief</a> · Source private</td>
   </tr>
 </table>
