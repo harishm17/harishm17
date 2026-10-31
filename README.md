@@ -2,13 +2,13 @@
 
 I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area. I build backend services, agentic workflows and evals.
 
-[harishmanoharan.com](https://harishmanoharan.com) · [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
+[harishmanoharan.com](https://harishmanoharan.com?ref=github-readme) · [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
 
 ### At Purgo AI, since 2025
 
-- **[Table retrieval for a data-engineering agent](https://harishmanoharan.com/work/agent-retrieval/).** Our LangGraph agent turns data-engineering tickets into PySpark, SQL and dbt code. I designed how it finds the tables a ticket needs, from catalog search and dbt lineage to a schema check and an LLM ranker. Following lineage cut missed tables from 79 to 24 across 103 tickets.
-- **[Code review and cost](https://harishmanoharan.com/work/agent-retrieval/#self-review).** I built much of the review that checks the agent's code before it ships, and moved two of its stages to a smaller model, cutting their cost 7.6x.
-- **[Validation for regulated AI](https://harishmanoharan.com/work/llm-evaluation/).** I built our two products that qualify a customer's LLM or Databricks platform for regulated (GxP) use. Life-sciences customers use them for signed audit reports.
+- **[Table retrieval for a data-engineering agent](https://harishmanoharan.com/work/agent-retrieval/?ref=github-readme).** Our LangGraph agent turns data-engineering tickets into PySpark, SQL and dbt code. I designed how it finds the tables a ticket needs, from catalog search and dbt lineage to a schema check and an LLM ranker. Following lineage cut missed tables from 79 to 24 across 103 tickets.
+- **[Code review and cost](https://harishmanoharan.com/work/agent-retrieval/?ref=github-readme#self-review).** I built much of the review that checks the agent's code before it ships, and moved two of its stages to a smaller model, cutting their cost 7.6x.
+- **[Validation for regulated AI](https://harishmanoharan.com/work/llm-evaluation/?ref=github-readme).** I built our two products that qualify a customer's LLM or Databricks platform for regulated (GxP) use. Life-sciences customers use them for signed audit reports.
 
 ### Things I've built
 
@@ -17,7 +17,7 @@ I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisc
     <td width="44%" valign="top"><a href="https://readablestem.com"><img src="images/readablestem.png" alt="ReadableSTEM's review screen: a page of a sample PDF beside a decision for the instructor."></a></td>
     <td valign="top"><b><a href="https://readablestem.com">ReadableSTEM</a></b><br>
     Turns STEM course PDFs into accessible web pages, with equations a screen reader can speak. On held-out tests fixed in advance: heading F1 0.96, and 97% of figure descriptions pass a model judge. I also published where a chatbot still beats it.<br>
-    <a href="https://harishmanoharan.com/work/readablestem/">Write-up</a> · <a href="https://harishmanoharan.com/work/readablestem-evaluation/">Evaluation</a> · <a href="https://github.com/harishm17/readablestem">Source</a></td>
+    <a href="https://harishmanoharan.com/work/readablestem/?ref=github-readme">Write-up</a> · <a href="https://harishmanoharan.com/work/readablestem-evaluation/?ref=github-readme">Evaluation</a> · <a href="https://github.com/harishm17/readablestem">Source</a></td>
   </tr>
 </table>
 
