@@ -1,6 +1,6 @@
 ## Hi, I'm Harish
 
-I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area. I work across our data-engineering agent, a multi-agent LangGraph system that turns a data team's ticket into PySpark, SQL and dbt code: retrieval, context engineering, prompts, orchestration and evals.
+I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisco Bay Area. I work on our data-engineering agent, a multi-agent LangGraph system that turns a data team's ticket into PySpark, SQL and dbt code. My work covers the whole agent: retrieval, context engineering, prompts, orchestration and evals.
 
 [harishmanoharan.com](https://harishmanoharan.com?ref=github-readme) · [Resume](https://harishmanoharan.com/HarishManoharan.pdf?ref=github-readme) · [LinkedIn](https://www.linkedin.com/in/harishm17/) · [Email](mailto:harish_manoharan@outlook.com)
 
@@ -12,11 +12,11 @@ I designed the agent's retrieval: the pipeline that picks the few tables the LLM
 
 **[Testing LLMs and Databricks platforms for regulated use](https://harishmanoharan.com/work/llm-evaluation/?ref=github-readme)**
 
-I built, end to end, the two products life-sciences companies use to validate an AI model or a Databricks platform before regulated (GxP) work. Each run ends in a report the customer signs for its auditors.
+I built both products end to end. Life-sciences companies use them to validate an AI model or a Databricks platform before regulated (GxP) work. Each run ends in a report the customer signs for its auditors.
 
 ### Projects
 
-Three products I built on my own time. Each is live and open source, with a write-up.
+I built these three products outside work. All three are live and open source, and each has a write-up.
 
 <table>
   <tr>
