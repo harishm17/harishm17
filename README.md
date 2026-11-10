@@ -16,7 +16,7 @@ I'm a software engineer at [Purgo AI](https://www.purgo.ai/) in the San Francisc
   <tr>
     <td width="44%" valign="top"><a href="https://readablestem.com"><img src="images/readablestem.png" alt="ReadableSTEM's review screen: a page of a sample PDF beside a decision for the instructor."></a></td>
     <td valign="top"><b><a href="https://readablestem.com">ReadableSTEM</a></b><br>
-    Turns STEM course PDFs into accessible web pages, with equations a screen reader can speak. On held-out tests fixed in advance: heading F1 0.96, and 97% of figure descriptions pass a model judge. I also published where a chatbot still beats it.<br>
+    Turns STEM course PDFs into accessible web pages, with equations a screen reader can speak. In a test fixed in advance, on 1,715 equations it had never seen, it read 84.0% correctly (a Claude Opus chatbot: 83.6%), let half as many errors pass without a warning and cost a third as much.<br>
     <a href="https://harishmanoharan.com/work/readablestem/?ref=github-readme">Write-up</a> · <a href="https://harishmanoharan.com/work/readablestem-evaluation/?ref=github-readme">Evaluation</a> · <a href="https://github.com/harishm17/readablestem">Source</a></td>
   </tr>
 </table>
