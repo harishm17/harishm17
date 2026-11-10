@@ -66,4 +66,4 @@ Three products I built on my own time. Each is live and open source, with a writ
 - M.S. in computer science, UT Dallas (2026)
 - Dual degree in biological sciences and data science, IIT Madras (2024), with a master's thesis at The Jackson Laboratory on finding behaviors in mouse videos without labels
 
-**Outside work:** hackathons (my team placed third of about 40 at the KaneCLI Hackathon by TestMu AI in October 2026), hiking, table tennis, and chess on [Lichess](https://lichess.org/@/harishm17) and [Chess.com](https://www.chess.com/member/pika_pika17).
+**Outside work:** hackathons (my team placed third of about 40 at the Kane CLI Hackathon by TestMu AI in October 2026), hiking, table tennis, and chess on [Lichess](https://lichess.org/@/harishm17) and [Chess.com](https://www.chess.com/member/pika_pika17).
